@@ -1,3 +1,5 @@
 abstract class FlyingMonster {
-  String fly();
+  String fly() {
+    return "terbang-terbang asoy";
+  }
 }
